@@ -3,9 +3,9 @@
 //
 
 function square(n) {
-    return n * n;
+  return n * n;
 }
 
 module.exports = {
-    square,
+  square,
 };
